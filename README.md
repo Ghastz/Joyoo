@@ -1,2 +1,0 @@
-# Joyoo
-Joyo Glass web
